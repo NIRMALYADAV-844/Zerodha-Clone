@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.signbtn{
+    background-color: #387ed1;
+}
+
+.btn1{
+    color: #387ed1;
+}
+
+.educations{
+    margin:0px 0px 30px;
+    margin-left: auto;
+}
+.backgrounds{
+    background-color: #387ed1;
+}
